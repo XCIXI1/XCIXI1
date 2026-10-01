@@ -1,16 +1,18 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm Ceva Aska</h1>
+<h3 align="center">11th-grade TJKT Student & Aspiring Full Stack Developer 🚀</h3>
 
-<!--
-**XCIXI1/XCIXI1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=XCIXIX1&color=brightgreen&style=flat-square" alt="profile views" />
+  <img src="https://img.shields.io/badge/Status-Continuous%20Learner-blue?style=flat-square" alt="Status">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📝 Overview / Deskripsi Singkat
+> Halo! Saya Ceva Aska, seorang pelajar kelas XI SMK Jurusan **TJKT (Teknik Jaringan Komputer dan Telekomunikasi)** yang sedang berfokus mendalami **Full Stack Development**. 
+> 
+> Saya percaya bahwa pemahaman yang baik tentang infrastruktur jaringan (TJKT) memberikan nilai tambah yang besar bagi seorang *developer* dalam merancang aplikasi web yang optimal, aman, dan efisien. Saat ini saya sedang aktif mengasah kemampuan di bidang **HTML, CSS, dan Python**, serta selalu bersemangat mempelajari teknologi-teknologi baru.
+
+---
